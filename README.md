@@ -13,7 +13,7 @@ end)
 ```
 Then, once you did that, click Workspace, and make sure LoadstringEnabled is enabled. If it is not in Workspace, then check in ServerScriptService.
 
-If you have a clientsided executor for the revival you're exploiting, run this:
+If you have a clientsided executor for the revival you're exploiting, run this or any examples:
 ```
 -- i like my cheese drippy bro
 local moduleID = 970596902
