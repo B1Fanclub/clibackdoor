@@ -1,5 +1,10 @@
 # clibackdoor
 A backdoor for old Roblox clients
+# FAQ
+## Does this work in FE?
+Yes, as long as the game is infected!
+## How does it work?
+You get a executor for the revival you're exploiting, infect a rbxl, turn on LoadstringEnabled, insert the script below, and then join a infected game. Once you're in there, use a example script below with the executor for the revival and you can now execute requires!
 ## How do I use it?
 First, put this code into a random script or make a script in a random object:
 ```
